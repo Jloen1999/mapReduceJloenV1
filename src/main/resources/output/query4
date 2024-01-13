@@ -1,0 +1,27 @@
+	4.¿A qué hora debemos mostrar publicidad para maximizar la probabilidad de que el cliente compre el producto?
+1(1) AM  	2350
+1(13) PM  	12129
+10(10) AM	10944
+10(22) PM	8822
+11(11) AM	12411
+11(23) PM	6275
+12(0) AM	3910
+12(12) PM	12587
+2(14) PM  	10984
+2(2) AM  	1243
+3(15) PM  	10175
+3(3) AM  	831
+4(16) PM  	10384
+4(4) AM  	854
+5(17) PM  	10899
+5(5) AM  	1321
+6(18) PM  	12280
+6(6) AM  	2482
+7(19) PM  	12905
+7(7) AM  	4011
+8(20) PM  	12228
+8(8) AM  	6256
+9(21) PM  	10921
+9(9) AM  	8748
+La hora para maximizar la probabilidad de que el cliente compre el producto es: 7(19) PM  
+ya que en esa hora se hizo un total de 	12905 pedidos.
